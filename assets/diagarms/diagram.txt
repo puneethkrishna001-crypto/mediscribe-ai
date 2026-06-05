@@ -1,0 +1,18 @@
+User Query
+     │
+     ▼
+Hybrid Retriever
+(FAISS + BM25)
+     │
+     ▼
+Relevant Chunks
+     │
+     ▼
+Gemini 2.5 Flash
+     │
+     ▼
+Answer
+     │
+     ├── Sources
+     ├── Confidence
+     └── Memory
